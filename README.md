@@ -7,6 +7,13 @@
 <h3 align="center"> CS211 - Object Oriented Programming </h3>
 <h5 align="center"> Final Project </h3>
 
+<h5 align="center"> Members </h3>
+Balbuena, Jeff
+Domingo, Joy
+Salva, Dorothy
+Sumang, Vex
+Yumul, John
+
 <h2 id="BSUrahan"> :book: BSUrahan</h2>
 
 
