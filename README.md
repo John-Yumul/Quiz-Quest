@@ -3,7 +3,7 @@
     <img src="https://media.discordapp.net/attachments/833997901411516466/1173509459256029234/wastebasket.png?ex=656436d9&is=6551c1d9&hm=6d710033cdc03f3ca8a0c5947e3f148aa266245479194d686840c4ab374e631e&=">
 </p>
 
-<h1 align="center"> Quiz Quest: Explore the Alangilan Campus and Graduatfe Bang Bang!</h1>
+<h1 align="center"> Quiz Quest: Explore College Life in the Alangilan Campus !</h1>
 <h3 align="center"> CS211 - Object Oriented Programming </h3>
 <h5 align="center"> Final Project - Batangas State University, First Semester 2023 </h3>
 
@@ -13,8 +13,6 @@
 <p align="center">Salva, Dorothy Castueras</p>
 <p align="center">Sumang, Vex</p>
 <p align="center">Yumul, John</p>
-
-<h2 id="BSUrahan"> :book: BSUrahan</h2>
 
 ## Table of Contents	
 - [💡About](#--about)
@@ -31,9 +29,9 @@
  <p> Quiz Quest is a school life RPG! </p>
 ![image](https://github.com/John-Yumul/Quiz-Quest/assets/120115162/ea664a50-6a3f-49b9-976d-50f90d38c842) Insert image here
 
-<p> You've graduated senior high school and have wondered what's next? Do you want to be an Engineer? Computer Scientist? Architect? the choice is yours! </p>
-<p> Here at Batangas State University - THE NATIONAL Engineering University, we transform you into the professional you want to be </p>
-<p> Armed with , you set out to be the best student you can be</p>
+<p> You've graduated senior high school and wonder 'What's next?'🤔. Do you want to be an Engineer? Computer Scientist? Architect? The choice is yours!😎 </p>
+<p> Here at Batangas State University - The National Engineering University 😱, we equip you with the skills to be the professional you want to be. 😇🤗</p>
+<p> With the campus at your fingertips, you'll have access to endless possibilities and unleash your fullest potential 🔥</p>
 
 <a name="--purpose"></a>	
 
@@ -42,8 +40,8 @@
 <p align="center">
 insert GIF here
 <ul>
-  <li>🏦 <b>Movement</b> - Lorem Ipsum</li>
-
+	<li>🏦 <b>Movement</b> - Roam around the campus at your own leisure!</li>
+	<li>🏦 <b>Movement</b> - Roam around the campus at your own leisure!</li>
 </ul>
 
 ### <a name="--purpose"></a>	
@@ -56,7 +54,7 @@ insert GIF here
 		<td><strong>Target 4.7:</strong> By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development</td>
 	</tr>
 </table>
-<p> Firstly, in congruence with Indicator 4.7 of the SDG entitled “Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,” it sights that all learners acquire the essential knowledge and expertise necessary to achieve sustainable development. 🏆</p>
+<p> In congruence to Indicator 4.7 of the SDG entitled “Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,” it sights that all learners acquire the essential knowledge and expertise necessary to achieve sustainable development. 🏆</p>
 
 
 ### <a name="--project-files-description"></a>	
