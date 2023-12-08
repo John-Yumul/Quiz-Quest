@@ -19,6 +19,7 @@
 - [🚀Features](#--features)
 - [🌎Purpose](#--purpose)
 - [🖧Installation](#--how-to-install)
+- [🤯Gameplay Preview](#--gameplay-preview)
 - [🎥Video Presentation](#--video-presentation)
 
 
@@ -70,6 +71,12 @@
 ## 🖧Installation
 
 
+### <a name="--gameplay-preview"></a>	
+ ## 🤯Gameplay Preview
+<p align="center"> 
+    <img src="">
+</p>
+ 
  ### <a name="--video-presentation"></a>	
 ## 🎥Video Presentation
 
