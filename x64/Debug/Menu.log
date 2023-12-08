@@ -1,0 +1,43 @@
+﻿  Animation.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Animation.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Animation.cpp')
+  
+  Building.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Building.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Building.cpp')
+  
+  Button.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Button.h(2,10): error C1083: Cannot open include file: 'SFML/graphics.hpp': No such file or directory
+  (compiling source file 'Button.cpp')
+  
+  Collider.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Collider.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Collider.cpp')
+  
+  Enter.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Enter.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Enter.cpp')
+  
+  Floor.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Floor.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Floor.cpp')
+  
+  Menu.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Menu.cpp(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Pathway.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Pathway.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Pathway.cpp')
+  
+  Plant.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Collider.h(2,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Plant.cpp')
+  
+  Player.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\Animation.h(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'Player.cpp')
+  
+  TextBox.cpp
+C:\Users\USer\Desktop\Final\Menu\Menu\TextBox.h(2,9): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TextBox.cpp')
+  
+  Generating Code...
