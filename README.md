@@ -1,7 +1,7 @@
-
 <p align="center"> 
-    <img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/24468a84-9f3b-4be7-be3a-c052a17b3ca1">
+    <img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/cf396b5f-d724-45b2-bd6c-b6ab6941bd3a">
 </p>
+
 
 <h1 align="center"> Unique: Explore College Life in the Alangilan Campus !</h1>
 <h3 align="center"> CS211 - Object Oriented Programming </h3>
@@ -18,16 +18,17 @@
 - [💡About](#--about)
 - [🚀Features](#--features)
 - [🌎Purpose](#--purpose)
-- [💾Project Files Description](#--project-files-description)
 - [🖧Installation](#--how-to-install)
-- [👀Gameplay Preview](#--gameplay-preview)
 - [🎥Video Presentation](#--video-presentation)
 
 
 ### <a name="--about"></a>	
  ## 💡About
  <p> Unique is a school life RPG written in C++ with SFML library and SQlite </p>
-![image](https://github.com/John-Yumul/Quiz-Quest/assets/120115162/ea664a50-6a3f-49b9-976d-50f90d38c842) Insert image here
+
+<p align="center"> 
+    <img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/3932f4a0-a3f4-48b3-a4eb-3529bdfeac8b">
+</p>
 
 <p> You've graduated senior high school and wonder 'What's next?'🤔. Do you want to be an Engineer? Computer Scientist? Architect? The choice is yours!😎 </p>
 <p> Here at Batangas State University - The National Engineering University 😱, we equip you with the skills to be the professional you want to be. 😇🤗</p>
@@ -38,10 +39,15 @@
 ### <a name="--features"></a>	
 ## 🚀Features 
 <p align="center">
-insert GIF here
+<p align="center"> 
+    <img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/24468a84-9f3b-4be7-be3a-c052a17b3ca1">
+</p>
+
 <ul>
-	<li>🏦 <b>Movement</b> - Roam around the campus at your own leisure!</li>
-	<li>🏦 <b>Quiz Game</b> - Roam around the campus at your own leisure!</li>
+	<li>🏦 <b>Movement</b> - Roam around the entire campus at your own leisure!</li>
+	<li>🤖 <b>Save Progress</b> - If you get tired walking around Alangilan you can come back to your game later</li>
+	<li>🧓 <b>Quiz Game</b> - Test your knowledge in your majors and gain prizes</li>
+	
 </ul>
 
 ### <a name="--purpose"></a>	
@@ -57,18 +63,6 @@ insert GIF here
 <p> In congruence to Indicator 4.7 of the SDG entitled “Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,” it sights that all learners acquire the essential knowledge and expertise necessary to achieve sustainable development. 🏆</p>
 
 
-### <a name="--project-files-description"></a>	
-## 💾Project Files Description
-
-<ul>
-  <li><b>main.cpp</b> - The main file that runs the game.</li>
-</ul>
-
-<h3>Some other supporting files</h3>
-<ul>
-  <li><b>Collision.h</b> - Lorem Ipsum</li>
-
-</ul>
 
 
  ### <a name="--how-to-install"></a>	
