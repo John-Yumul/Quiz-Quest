@@ -74,8 +74,8 @@
 
 ### <a name="--gameplay-preview"></a>	
  ## 🤯Gameplay Preview
-<p align="center"> 
-    <img src="">
+<p align="center">
+<a href="https://youtu.be/TVe4oHcknnQ"><img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ry5OVAsaRlt15hpJqwbKw56gMaAN8DoKUhf4nId8NmK1b5jOLCvZWvfd9dV8mwFWPROyO8pSW8HuwCmqFyfXSheHi4=s1600" alt="Unique Trailer" style="width:100%;height:100%;"></a>
 </p>
  
  ### <a name="--video-presentation"></a>	
