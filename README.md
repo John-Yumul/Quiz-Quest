@@ -1,6 +1,6 @@
 
 <p align="center"> 
-    <img src="https://media.discordapp.net/attachments/833997901411516466/1173509459256029234/wastebasket.png?ex=656436d9&is=6551c1d9&hm=6d710033cdc03f3ca8a0c5947e3f148aa266245479194d686840c4ab374e631e&=">
+    <img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/24468a84-9f3b-4be7-be3a-c052a17b3ca1">
 </p>
 
 <h1 align="center"> Quiz Quest: Explore College Life in the Alangilan Campus !</h1>
@@ -26,7 +26,7 @@
 
 ### <a name="--about"></a>	
  ## 💡About
- <p> Quiz Quest is a school life RPG! </p>
+ <p> Quiz Quest is a school life RPG written with the SFML C++ library and SQlite </p>
 ![image](https://github.com/John-Yumul/Quiz-Quest/assets/120115162/ea664a50-6a3f-49b9-976d-50f90d38c842) Insert image here
 
 <p> You've graduated senior high school and wonder 'What's next?'🤔. Do you want to be an Engineer? Computer Scientist? Architect? The choice is yours!😎 </p>
@@ -41,7 +41,7 @@
 insert GIF here
 <ul>
 	<li>🏦 <b>Movement</b> - Roam around the campus at your own leisure!</li>
-	<li>🏦 <b>Movement</b> - Roam around the campus at your own leisure!</li>
+	<li>🏦 <b>Quiz Game</b> - Roam around the campus at your own leisure!</li>
 </ul>
 
 ### <a name="--purpose"></a>	
