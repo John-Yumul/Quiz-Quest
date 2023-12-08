@@ -75,7 +75,7 @@
 ### <a name="--gameplay-preview"></a>	
  ## 🤯Gameplay Preview
 <p align="center">
-<a href="https://youtu.be/TVe4oHcknnQ"><img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/3cc82edc-eb65-49d0-9beb-b9109f1824f5" alt="Unique Trailer" style="width:50%;height:50%;"></a>
+<a href="https://youtu.be/TVe4oHcknnQ"><img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/1f816b0f-6a28-451a-97d1-735275b30025" alt="Unique Trailer" style="width:50%;height:50%;"></a>
 	<p align="center"> 
    https://youtu.be/TVe4oHcknnQ
 </p>
