@@ -8,8 +8,8 @@
 <h5 align="center"> Final Project - Batangas State University, First Semester 2023 </h3>
 
 <h5 align="center"> Members </h3>
-<p align="center">Balbuena, Jeff Suzette </p>
-<p align="center">Domingo, Joy Lawrence</p>
+<p align="center">Balbuena, Jeff  </p>
+<p align="center">Domingo, Joy </p>
 <p align="center">Salva, Dorothy Castueras</p>
 <p align="center">Sumang, Vex</p>
 <p align="center">Yumul, John</p>
