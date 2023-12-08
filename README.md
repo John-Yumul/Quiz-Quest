@@ -45,6 +45,7 @@
 
 <ul>
 	<li>🏦 <b>Movement</b> - Roam around the entire campus at your own leisure!</li>
+	<li>🤓 <b>Customizable Gameplay</b> - Your choices will affect your playthrough</li>
 	<li>🤖 <b>Save Progress</b> - If you get tired walking around Alangilan you can come back to your game later</li>
 	<li>🧓 <b>Quiz Game</b> - Test your knowledge in your majors and gain prizes</li>
 	
@@ -67,6 +68,13 @@
 
  ### <a name="--how-to-install"></a>	
 ## 🖧Installation
+
+
+ ### <a name="--video-presentation"></a>	
+## 🎥Video Presentation
+
+<p> https://drive.google.com/drive/folders/1kIHoVP7AC8RzKJrax96B2L0qQIE9AalW?usp=drive_link </p>
+
 
 
 
