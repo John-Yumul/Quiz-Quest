@@ -3,7 +3,7 @@
     <img src="https://github.com/John-Yumul/Quiz-Quest/assets/120115162/24468a84-9f3b-4be7-be3a-c052a17b3ca1">
 </p>
 
-<h1 align="center"> Quiz Quest: Explore College Life in the Alangilan Campus !</h1>
+<h1 align="center"> Unique: Explore College Life in the Alangilan Campus !</h1>
 <h3 align="center"> CS211 - Object Oriented Programming </h3>
 <h5 align="center"> Final Project - Batangas State University, First Semester 2023 </h3>
 
@@ -26,7 +26,7 @@
 
 ### <a name="--about"></a>	
  ## 💡About
- <p> Quiz Quest is a school life RPG written in C++ with SFML library and SQlite </p>
+ <p> Unique is a school life RPG written in C++ with SFML library and SQlite </p>
 ![image](https://github.com/John-Yumul/Quiz-Quest/assets/120115162/ea664a50-6a3f-49b9-976d-50f90d38c842) Insert image here
 
 <p> You've graduated senior high school and wonder 'What's next?'🤔. Do you want to be an Engineer? Computer Scientist? Architect? The choice is yours!😎 </p>
