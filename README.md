@@ -5,6 +5,7 @@
 
 <h1 align="center"> Unique: Explore College Life in the Alangilan Campus !</h1>
 <h3 align="center"> CS211 - Object Oriented Programming </h3>
+<h3 align="center"> IT211 - Database Management </h3>
 <h5 align="center"> Final Project - Batangas State University, First Semester 2023 </h3>
 
 <h5 align="center"> Members </h3>
